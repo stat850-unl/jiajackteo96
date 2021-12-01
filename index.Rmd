@@ -1,0 +1,16 @@
+---
+title: "Homework 12: Presentation"
+author: "Jia Jack Teo"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+options(digits = 3)
+```
+
+[beamerslide](https://github.com/stat850-unl/11-presentation-jiajackteo96/blob/master/beamerslide.pdf)
+
+[ioslides](https://github.com/stat850-unl/11-presentation-jiajackteo96/blob/master/ioslides.html)
+
+[CV](https://github.com/stat850-unl/11-presentation-jiajackteo96/blob/master/cv.pdf)
